@@ -36,7 +36,7 @@ namespace Uber
         {
             Pen pen = new Pen(Color.FromArgb(rand.Next(0, 255), 0, 0));
 
-            
+
 
             a = c;
             b = d;
